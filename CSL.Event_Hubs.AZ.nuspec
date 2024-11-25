@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>CSL.Event_Hubs.AZ</id>
+    <version>1.0.2</version>
+    <authors>Accelerate Squad</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://sdxcloud.visualstudio.com/IST.GLB.GLB.GCCC_IMCSL/_git/CSL.Event_Hubs.AZ</projectUrl>
+    <description>This CSL deploys Events Hub in Azure.</description>
+    <releaseNotes>/home/ansible/myagent/_work/429/CommonPipelines/Releases/CSL.Event_Hubs.AZ/changelog ### Version 1.0.2
+
+| Description |
+|--|
+| First version of Event Hub CSL |
+</releaseNotes>
+    <copyright>$copyright$</copyright>
+  </metadata>
+</package>
